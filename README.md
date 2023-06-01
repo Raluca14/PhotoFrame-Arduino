@@ -4,6 +4,7 @@ The project consists of a digital photo frame primarily designed to display imag
 Additionally, the photo frame can also function as a simple digital thermometer to indicate the ambient temperature. This functionality is activated by pressing a button that pauses the image slideshow and displays the temperature on the screen. To resume the slideshow, the user can press the button again.![prpm](https://github.com/Raluca14/PhotoFrame-Arduino/assets/113622449/fe5feb74-1c5e-4ed4-bb24-3ce7e64eae2b)
 
 Hardware Design
+
 The hardware components used for this project are:
 
 Arduino UNO compatible development board
@@ -24,6 +25,7 @@ Button 3 - Pin 6
 Button 4 - Pin 7
 
 Software Design 
+
 The software part of this project was developed in the Arduino IDE. A significant part of the software implementation involved correctly utilizing the libraries and functions specific to each component.
 
 The libraries used are:
